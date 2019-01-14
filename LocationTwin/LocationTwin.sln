@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationTwin", "LocationTwin\LocationTwin.csproj", "{EFC03870-4E36-400D-9FB3-FD9014760FE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC03870-4E36-400D-9FB3-FD9014760FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC03870-4E36-400D-9FB3-FD9014760FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC03870-4E36-400D-9FB3-FD9014760FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC03870-4E36-400D-9FB3-FD9014760FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8AFB9E-770C-4DFF-8EF4-3A1011416437}
+	EndGlobalSection
+EndGlobal
